@@ -1,5 +1,7 @@
 # digit
+<img src=https://assets.digitalocean.com/articles/handwriting_tensorflow_python3/wBCHXId.png>
 
+---
 This project shows how to use machine learning models to analyze digit images. In addition, an extra part has been added where it is shown how you can create an interactive demo to show the model using [Gradio](https://github.com/gradio-app/gradio).  
 
 ---
